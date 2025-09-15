@@ -1,6 +1,6 @@
 # Olá, eu me chamo Kayki Macedo
 
-# Sobre Mim
+*Sobre Mim*
 - Comecei na programação em 2021 e me apaixonei pela área e desde então sigo na área sempre me aperfeiçoando e buscando conhecimento cada vez mais.
 
 <div align="center">
