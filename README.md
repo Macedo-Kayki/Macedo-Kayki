@@ -1,8 +1,6 @@
-# Olá, Eu sou o Kayki Macedo
+# <p align="center">Olá, Eu sou o Kayki Macedo</p>
 
 ### FullStack Developer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Macedo-Kayki&label=Profile views&color=0e75b6&style=flat" alt="Macedo-Kayki" /> </p>
 
 - 🧩 Todos os meus projetos estão disponíveis aqui
 
