@@ -4,7 +4,7 @@
 
 - 🧩 Todos os meus projetos estão disponíveis aqui
 
-- 🌱 Atualmente estou aprendendo **TypeScript, Angular**
+- 🌱 Atualmente estou aprendendo **TypeScript, Java, Angular**
 
 - 📫 Como entrar em contato: **macedokayki@gmail.com**
 
