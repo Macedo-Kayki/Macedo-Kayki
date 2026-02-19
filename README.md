@@ -4,7 +4,7 @@
 
 - 🧩 All my projects are available here
 
-- 🌱 I'm currently learning **Delphi, Java, Angular**
+- 🌱 I'm currently learning **Delphi, Java**
 
 - 📫 How to reach me: **macedokayki@gmail.com**
 
